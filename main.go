@@ -9,6 +9,7 @@ import (
 )
 
 func main() {
+
 	fmt.Println("Noob Netflix")
 	r := router.Router()
 	fmt.Println("API is starting ....")
